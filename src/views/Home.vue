@@ -9,7 +9,7 @@
           力扣加加
         </h1>
         <p>
-          <span>教你轻松学算法</span>
+          <span>努力做西湖区最好的算法题解</span>
         </p>
         <div class="button-wrapper">
           <a href="https://lucifer.ren/blog/"

@@ -4,7 +4,7 @@
       <a-col :span="4">
         <div class="logo-area">
           <router-link to="/">
-            <img src="../../assets/logo.png" alt="路西法" />
+            <img src="../../assets/logo.png" alt="力扣加加" />
           </router-link>
         </div>
       </a-col>

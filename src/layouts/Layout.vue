@@ -15,12 +15,11 @@
 <script>
 import LayoutHeader from '@/components/LayoutHeader'
 import LayoutContent from '@/components/LayoutContent'
-import LayoutSider from '@/components/LayoutSider'
 import LayoutFooter from '@/components/LayoutFooter'
 import { createComponent } from '@vue/composition-api'
 
 export default createComponent({
-  components: { LayoutHeader, LayoutContent, LayoutSider, LayoutFooter }
+  components: { LayoutHeader, LayoutContent, LayoutFooter }
 })
 </script>
 
