@@ -21,9 +21,7 @@
     <p
       data-tool="mdnice编辑器"
       style="padding-top: 8px; padding-bottom: 8px; line-height: 26px; color: #2b2b2b; margin: 10px 0px; letter-spacing: 2px; font-size: 14px; word-spacing: 2px;"
-    >
-      wo
-    </p>
+    ></p>
     <h2
       data-tool="mdnice编辑器"
       style="margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: bold; color: black; font-size: 22px; display: block; border-bottom: 4px solid #40B8FA;"
