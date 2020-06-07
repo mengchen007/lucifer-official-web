@@ -25,10 +25,8 @@
           <a-menu-item key="video">
             <router-link to="/video" class="nav-font">视频专区</router-link>
           </a-menu-item>
-          <a-menu-item key="book">
-            <router-link to="/book" class="nav-font icon-new"
-              >我的新书</router-link
-            >
+          <a-menu-item key="91">
+            <router-link to="/91" class="nav-font icon-new">91算法</router-link>
           </a-menu-item>
         </a-menu>
       </a-col>
